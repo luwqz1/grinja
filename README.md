@@ -1,2 +1,2 @@
 # grinja
-A comfortable jinja2 templating for telegrinder
+Simplify your bot's message rendering with clean and powerful templates.
